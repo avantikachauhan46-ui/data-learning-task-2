@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.6333,
+  "precision_macro": 0.6223,
+  "recall_macro": 0.6333,
+  "f1_macro": 0.6108,
+  "classes": [
+    "airplane",
+    "cat",
+    "dog"
+  ],
+  "train_size": 900,
+  "test_size": 300,
+  "epochs": 12,
+  "training_time_seconds": 167.1,
+  "pretrained_imagenet_weights": false
+}
